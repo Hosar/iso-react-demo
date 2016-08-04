@@ -6,9 +6,9 @@
 
 import React from "react";
 import { Route, IndexRoute } from "react-router";
-import App from "./components/App";
-import Home from "./components/Home";
-import Detail from "./components/Detail";
+import App from "./components/app";
+import Home from "./components/home";
+import Detail from "./components/detail";
 
 // console.log("history", createHistory)
 
